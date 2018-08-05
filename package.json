@@ -1,0 +1,8 @@
+{
+  "name": "sweeperflags-server",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+
+  }
+}
